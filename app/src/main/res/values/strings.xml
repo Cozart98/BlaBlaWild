@@ -1,0 +1,9 @@
+<resources>
+    <string name="search_text">Rechercher</string>
+    <string name="search_text2">Résultat</string>
+    <string name="texteString2">Tu dois remplir le départ et la destination !</string>
+
+    <string name="action_settings">Settings</string>
+
+
+</resources>
