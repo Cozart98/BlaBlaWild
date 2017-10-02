@@ -20,7 +20,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="50dp"
-        android:text="Bla Bla Wild !"
+        android:text="@string/bla_bla_wild"
         android:textColor="#ffffffff"
         android:textSize="30sp" />
 

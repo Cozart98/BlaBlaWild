@@ -114,8 +114,8 @@ public class SearchItineraryActivity extends AppCompatActivity {
 
                final Intent intent = new Intent(SearchItineraryActivity.this,
                         ViewSearchItineraryResultsListActivity.class);
-             //   intent.putExtra("depart", depart);
-              //  intent.putExtra("destination", destination);
+                intent.putExtra("depart", depart);
+                intent.putExtra("destination", destination);
 
                   SearchRequestModel model = new SearchRequestModel
                           (editTextDepart.getText().toString(),editTextDestination.getText().toString(),myCalendar.getTime());

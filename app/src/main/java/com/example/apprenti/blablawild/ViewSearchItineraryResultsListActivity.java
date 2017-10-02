@@ -26,9 +26,6 @@ public class ViewSearchItineraryResultsListActivity extends AppCompatActivity {
         String depart = getIntent().getStringExtra("depart");
         String destination = getIntent().getStringExtra("destination");
 
-       // Intent i = getIntent();
-      //  String depart = i.getExtras().getString("depart");
-      //  String destination = i.getExtras().getString("destination");
 
 
         SearchRequestModel model = getIntent().getExtras().getParcelable("parcel");

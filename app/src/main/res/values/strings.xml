@@ -4,6 +4,11 @@
     <string name="texteString2">Tu dois remplir le départ et la destination !</string>
 
     <string name="action_settings">Settings</string>
+    <string name="bla_bla_wild">Bla Bla Wild !</string>
+    <string name="depart_string">Départ</string>
+    <string name="destination_string">Destination</string>
+    <string name="date_string">Date</string>
+    <string name="recherche_string">Recherche</string>
 
 
 </resources>

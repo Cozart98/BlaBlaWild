@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="depart_string">Departure</string>
+    <string name="texteString2">You have to complete the departure and the destination!</string>
+    <string name="search_text2">Result</string>
+    <string name="search_text">Search</string>
+    <string name="recherche_string">Search</string>
+    <string name="destination_string">Destination</string>
+    <string name="date_string">Date</string>
+    <string name="action_settings">Setings</string>
+    <string name="bla_bla_wild">Bla Bla Wild !</string>
+</resources>
